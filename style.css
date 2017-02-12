@@ -1,0 +1,32 @@
+.container {
+  background-color: black;
+
+}
+.left {
+  color: white;
+  word-wrap: break-word;
+
+}
+.left-mid{
+  color: white;
+  word-wrap: break-word;
+}
+.right-mid{
+  color: white;
+  word-wrap: break-word;
+
+}
+.right{
+  color: white;
+  word-wrap: break-word;
+
+}
+.p {
+  color: white;
+  word-wrap: break-word;
+
+
+}
+body {
+  color: white;
+}
